@@ -8,7 +8,6 @@ A responsive chips website is all about using little clickable boxes, called chi
 ## Live Demo
 You can view a live demo of the project [Click Here](https://vipin018.github.io/Flavory-Chips/).
 
-![preview img](/assets/img/demo.png)
 
 ## Features
 - Chips Website Design Using HTML CSS And JavaScript
