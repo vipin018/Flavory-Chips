@@ -693,15 +693,15 @@ img {
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
   width: .6rem;
-  background-color: hsl(170, 50%, 30%);
+  background-color: #00ADB5;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: hsl(170, 50%, 20%);
+  background-color: #009198;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: hsl(170, 50%, 15%);
+  background-color: #02797f;
 }
 
 
